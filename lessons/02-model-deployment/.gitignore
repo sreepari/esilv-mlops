@@ -1,0 +1,7 @@
+**/local_data/*
+!**/local_data/.gitkeep
+
+**/local_models/*
+!**/local_models/.gitkeep
+
+**/mlruns/
